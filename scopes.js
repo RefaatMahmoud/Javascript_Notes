@@ -20,3 +20,5 @@ if (true) {
 
 console.log(y); //works
 //console.log(x); //is not defined
+
+//https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
